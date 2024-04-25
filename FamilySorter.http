@@ -1,0 +1,6 @@
+@FamilySorter_HostAddress = http://localhost:5093
+
+GET {{FamilySorter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
